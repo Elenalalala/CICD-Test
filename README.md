@@ -1,2 +1,2 @@
 # CICD-Test
-Practice CICD tool for Github Action
+Practice CICD tool for GitHub Action
